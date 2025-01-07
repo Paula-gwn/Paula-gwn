@@ -1,6 +1,6 @@
 Hi there! 👋 Welcome to my GitHub Profile
 About Me
-🎓 I’m currently pursuing a Master’s in Data Science and Business Analytics at University of Warsaw.
+🎓 I’m currently pursuing a Master’s Degree in Data Science and Business Analytics at University of Warsaw.
 
 💼 I have experience in data analysis, machine learning, and business intelligence tools.
 
