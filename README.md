@@ -17,7 +17,7 @@ Machine Learning: Scikit-learn, TensorFlow, PyTorch
 
 Databases: MySQL, SQLite
 
-On my GitHub, you’ll find projects and resources that reflect my journey as a data scientist and business analytics professional, including:
+📉 On my GitHub, you’ll find projects and resources that reflect my journey as a data scientist and business analytics professional, including:
 
 End-to-End Machine Learning Projects 
 
