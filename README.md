@@ -2,7 +2,7 @@ Hi there! 👋 Welcome to my GitHub Profile
 About Me
 🎓 I’m currently pursuing a Master’s Degree in Data Science and Business Analytics at University of Warsaw.
 
-💼 I have experience in data analysis, machine learning, and business intelligence tools.
+💼 I have experience in data science, including exploratory data analysis, statistical modeling, building machine learning models and business intelligence tools.
 
 🌟 I’m passionate about turning data into actionable insights and building data-driven solutions for real-world problems.
 
