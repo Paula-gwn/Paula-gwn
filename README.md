@@ -1,4 +1,5 @@
 Hi there! 👋 Welcome to my GitHub Profile
+
 About Me
 🎓 I’m currently pursuing a Master’s Degree in Data Science and Business Analytics at University of Warsaw.
 
