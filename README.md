@@ -26,6 +26,7 @@ WebScrapping: Beautiful Soup, Selenium and Scrapy
 End-to-End Machine Learning Projects 
 
 -Involving methods like clustering, Dimensional reduction and Association rules
+
 -Logistic regression, OLS, Classification..
 
 Exploratory Data Analysis (EDA) & ETL process
