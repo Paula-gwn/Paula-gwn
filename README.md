@@ -11,11 +11,12 @@ About Me
 
 Programming Languages: Python, R, SQL
 
-Data Visualization: Power BI, Matplotlib, Seaborn
+Data Visualization: Power BI, Matplotlib, Seaborn, Tableau, Looker Studio
 
 Machine Learning: Scikit-learn, TensorFlow, PyTorch
 
 Databases: MySQL, SQLite  
+
 Data Platform: Snowflake ❄ , Microsoft Azure
 
 Markup Language: HTML
