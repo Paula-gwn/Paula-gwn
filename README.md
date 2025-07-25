@@ -15,7 +15,8 @@ Data Visualization: Power BI, Matplotlib, Seaborn
 
 Machine Learning: Scikit-learn, TensorFlow, PyTorch
 
-Databases: MySQL, SQLite
+Databases: MySQL, SQLite  
+Data Platform: Snowflake ❄ , Microsoft Azure
 
 Markup Language: HTML
 
