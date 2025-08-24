@@ -21,6 +21,8 @@ Databases: MySQL, SQLite
 
 Data Platform: Snowflake ❄ , Microsoft Azure
 
+Data Annotation: Label Studio platform
+
 Markup Language: HTML
 
 WebScrapping: Beautiful Soup, Selenium and Scrapy
