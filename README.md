@@ -35,11 +35,11 @@ End-to-End Machine Learning Projects
 
 -Logistic regression, OLS, Classification..
 
-Exploratory Data Analysis (EDA) & ETL / ELT process
+-Exploratory Data Analysis (EDA) & ETL / ELT process
 
-- Case studies showcasing insights derived from real-world datasets.
+ *Case studies showcasing insights derived from real-world datasets.*
 
-Data Visualization Dashboards
+-Data Visualization Dashboards
 
 -Interactive dashboards for presenting insights.
 
