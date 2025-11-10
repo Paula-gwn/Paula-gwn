@@ -13,6 +13,8 @@ Programming Languages: Python, R, SQL
 
 Data Visualization: Power BI, Matplotlib, Seaborn, Tableau, Looker Studio
 
+Data Engineering: Alteryx, dbt, databricks
+
 Big Data: Apache Spark, PySpark
 
 Machine Learning: Scikit-learn, TensorFlow, PyTorch
